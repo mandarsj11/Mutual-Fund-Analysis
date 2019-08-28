@@ -144,8 +144,8 @@ for graph in distinct_graph:
                 col='ref_index',col_wrap=2, 
                 facet_kws=dict(sharey=False, sharex=False),
                 ax=ax)
-    x_dates = Normalise_close_graph_consolidated['date'].dt.strftime('%Y-%m').sort_values().unique()
-    ax.set_xticklabels(labels=x_dates, rotation=45)
+    #x_dates = Normalise_close_graph_consolidated['date'].dt.strftime('%Y-%m').sort_values().unique()
+    #ax.set_xticklabels(labels=x_dates, rotation=45)
     #g.savefig("myfig.png")
 
 # Stage 4: Writing output into original Spreadsheet
