@@ -10,5 +10,5 @@ Useful for anyone with mutual fund investment - regular investment thru broker o
 5: Output result to excel with format, cell allignment etc.
 
 Instructions: 
-1: User attached excel file to fill first tab - 'MF_Static' 
-2: Output will be given in tab - 'Dashboard'
+1: Use attached excel file to fill first tab - 'MF_Static' 
+2: Output will be given in tab - 'SR_Dashboard'
